@@ -1,0 +1,96 @@
+{
+  "item": {
+    "id": "com.xbstudio.dontstarve",
+    "restype": "quick_app",
+    "name": "饥荒·巨人国",
+    "description": "从荒野出发，拾取资源、制作工具，在天黑前点起营火。搭建营地，移栽草丛、树苗和浆果丛，储备物资应对季节变化。移动可在四向按键和摇杆之间切换。",
+    "preview": [
+      "media/73788.png",
+      "media/73786.png",
+      "media/73787.png"
+    ],
+    "icon": "media/73785.png",
+    "cover": "media/73784.jpg",
+    "author": [
+      {
+        "name": "18501",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "官网",
+      "url": "https://xbgw.sxb.asia",
+      "icon": "globe"
+    },
+    {
+      "title": "激活同步器",
+      "url": "https://wwbav.lanzouu.com/isJlB4f2jsod",
+      "icon": "download-simple"
+    }
+  ],
+  "downloads": {
+    "xmrw5": {
+      "version": "0.5.5",
+      "file_name": "downloads/饥荒巨人国_红米4-5-6_0.5.5.rpk",
+      "versionCode": 24
+    },
+    "xmrw5xring": {
+      "version": "0.5.5",
+      "file_name": "downloads/饥荒巨人国_红米4-5-6_0.5.5.rpk",
+      "versionCode": 24
+    },
+    "xmrw6": {
+      "version": "0.5.5",
+      "file_name": "downloads/饥荒巨人国_红米4-5-6_0.5.5.rpk",
+      "versionCode": 24
+    },
+    "xmb10": {
+      "version": "0.5.5",
+      "file_name": "downloads/饥荒巨人国_手环9-10-11_0.5.5.rpk",
+      "versionCode": 24
+    },
+    "xmb10nfc": {
+      "version": "0.5.5",
+      "file_name": "downloads/饥荒巨人国_手环9-10-11_0.5.5.rpk",
+      "versionCode": 24
+    },
+    "xmb11nfc": {
+      "version": "0.5.5",
+      "file_name": "downloads/饥荒巨人国_手环9-10-11_0.5.5.rpk",
+      "versionCode": 24
+    },
+    "xmb11": {
+      "version": "0.5.5",
+      "file_name": "downloads/饥荒巨人国_手环9-10-11_0.5.5.rpk",
+      "versionCode": 24
+    },
+    "xmb10p": {
+      "version": "0.5.5",
+      "file_name": "downloads/饥荒巨人国_9Pro-10Pro_0.5.5.rpk",
+      "versionCode": 24
+    },
+    "xmb9": {
+      "version": "0.5.5",
+      "file_name": "downloads/饥荒巨人国_手环9-10-11_0.5.5.rpk",
+      "versionCode": 24
+    },
+    "xmb9p": {
+      "version": "0.5.5",
+      "file_name": "downloads/饥荒巨人国_9Pro-10Pro_0.5.5.rpk",
+      "versionCode": 24
+    },
+    "xmws4": {
+      "version": "0.5.5",
+      "file_name": "downloads/饥荒巨人国_小米S系列_0.5.5.rpk",
+      "versionCode": 24
+    },
+    "xmws5": {
+      "version": "0.5.5",
+      "file_name": "downloads/饥荒巨人国_小米S系列_0.5.5.rpk",
+      "versionCode": 24
+    }
+  },
+  "ext": {}
+}
