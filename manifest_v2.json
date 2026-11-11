@@ -29,6 +29,11 @@
       "title": "激活同步器",
       "url": "https://wwbav.lanzouu.com/isJlB4f2jsod",
       "icon": "download-simple"
+    },
+    {
+      "title": "QQ群",
+      "url": "https://qm.qq.com/q/tVlk1u3TFe",
+      "icon": "wechat-logo"
     }
   ],
   "downloads": {
@@ -93,5 +98,14 @@
       "versionCode": 24
     }
   },
-  "ext": {}
+  "ext": {
+    "bundledResources": {
+      "recommended": [
+        {
+          "type": "plugin",
+          "id": "雪碧同步器"
+        }
+      ]
+    }
+  }
 }
